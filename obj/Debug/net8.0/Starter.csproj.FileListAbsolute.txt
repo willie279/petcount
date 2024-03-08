@@ -1,0 +1,14 @@
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
