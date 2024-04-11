@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectUniqueName": "/Users/williea.bello/Documents/freecodecamp/C#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectPath": "/Users/williea.bello/Documents/freecodecamp/C#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
       "packagesPath": "/Users/williea.bello/.nuget/packages/",
-      "outputPath": "/Users/williea.bello/Desktop/c#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/",
+      "outputPath": "/Users/williea.bello/Documents/freecodecamp/C#/expresiones booleanas/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/williea.bello/.nuget/NuGet/NuGet.Config"

@@ -117,15 +117,15 @@ do
     switch (menuSelection)
     {
         case "1":
-            for (int i = 0; i < maxPets; i++)
+            for (int i = 0; i < maxPets; i++) // recorre la matriz 
             {
                 if (ourAnimals[i, 0] != "ID #: ") // Esto indica que el bloque de código se ejecutará cuando el animal actual 
                                                   //tenga características definidas.
                 {
                     Console.WriteLine();
-                    for (int j = 0; j < 6; j++)
+                    for (int j = 0; j < 6; j++)// recorre la matriz
                     {
-                        Console.WriteLine(ourAnimals[i, j]);
+                        Console.WriteLine(ourAnimals[i, j]); // imprime la matriz
 
                     }
                 }
@@ -150,7 +150,7 @@ do
                 } // me va contar el numero de animales que tengo.
 
             }
-            Console.WriteLine(petCount);
+            Console.WriteLine(petCount); // me imprime el numero de animales actuales 
 
             if (petCount < maxPets)
             {
@@ -190,17 +190,17 @@ do
                     if (readResult != null)
                     {
                         animalAge = readResult;
+                        if (animalAge != "?")
+                        {
+                            validentry = int.TryParse(animalAge, out petAge);
+
+                        }
+                        else
+                        {
+                            validentry = true;
+                        }
                     }
 
-                    if (animalAge != "?")
-                    {
-                        validentry = int.TryParse(animalAge, out petAge);
-
-                    }
-                    else
-                    {
-                        validentry = true;
-                    }
 
                 } while (!validentry);
 
@@ -230,7 +230,7 @@ do
                         animalPersonalityDescription = readResult.ToLower();
                         if (animalPersonalityDescription == "")
                         {
-                            animalPhysicalDescription = "tbd";
+                            animalPersonalityDescription = "tbd";
                         }
                     }
                 } while (animalPersonalityDescription == "");
@@ -279,7 +279,7 @@ do
                 Console.WriteLine("Press enter the key to continue");
                 readResult = Console.ReadLine();
             }
-            
+
             break;
 
         case "3":
